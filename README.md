@@ -61,3 +61,7 @@ run `lcrhDebug()` in the console on a ranking page to see how many rows were det
 ## License
 
 MIT, see `LICENSE`.
+
+## Terms
+
+Use of this extension is governed by [TERMS.md](TERMS.md). You are responsible for every report you submit.
